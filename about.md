@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Medical Physics Canada
 
-Medical Physics is the application of physics principles and methods to healthcare and medicine. Medical physicists work in hospitals, cancer centers, research institutions, and regulatory agencies to ensure the safe and effective use of radiation and other physics-based medical technologies.
+Medical Physics Canada is a volunteer GitHub organization dedicated to sharing software written by the medical physics across Canada. Anyone around the world who wishes to contribute or ask questions is welcome!!!
 
 ### The Field of Medical Physics
 
@@ -31,15 +31,6 @@ Medical physics encompasses several specialized areas:
 - Radiation protection programs
 - Environmental monitoring
 - Regulatory compliance
-
-### Professional Standards
-
-Medical physicists in Canada must meet rigorous educational and certification requirements:
-
-- Graduate degree in medical physics or related field
-- Clinical training and residency
-- Professional certification
-- Continuing education requirements
 
 ### Contact Information
 
