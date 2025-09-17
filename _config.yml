@@ -1,0 +1,22 @@
+# Site settings
+title: Medical Physics Canada
+email: info@medphys-canada.org
+description: >-
+  Medical Physics Canada is a professional organization dedicated to advancing 
+  the field of medical physics in Canada. We support medical physicists through 
+  education, research, and professional development opportunities.
+baseurl: ""
+url: "https://medphys-canada.github.io"
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
