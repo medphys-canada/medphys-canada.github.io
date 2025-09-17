@@ -5,24 +5,17 @@ title: Welcome to Medical Physics Canada
 
 ## About Medical Physics Canada
 
-Medical Physics Canada is a professional organization dedicated to advancing the field of medical physics across Canada. We serve as a central hub for medical physicists, researchers, and healthcare professionals working in the intersection of physics and medicine.
+Medical Physics Canada is a volunteer GitHub organization dedicated to sharing software written by the medical physics across Canada. Anyone around the world who wishes to contribute or ask questions is welcome!!!
 
 ### Our Mission
 
 We are committed to:
 
-- **Advancing the Science**: Promoting research and innovation in medical physics
-- **Supporting Professionals**: Providing resources and networking opportunities for medical physicists
-- **Improving Healthcare**: Contributing to better patient care through physics-based medical technologies
-- **Education and Training**: Supporting the next generation of medical physicists
+- **Sharing Open Source**: Promoting the sharing and collaboration of code and tools used in medical physics
 
 ### What We Do
 
-- Host conferences and workshops
-- Provide professional development resources
-- Facilitate networking among medical physics professionals
-- Support research initiatives in medical physics
-- Advocate for the medical physics profession in Canada
+- Just talk right now, more to come
 
 ### Get Involved
 
